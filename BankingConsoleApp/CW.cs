@@ -61,6 +61,12 @@ namespace BankingConsoleApp
                     break;
             }
         }
+        public static void ConsoleClear()
+        {
+            Console.Clear();
+            PrintDT();
+            PrintLB();
+        }
         public static void PrintBetaDetails()
         {
             Console.WriteLine("For the purpose of using the beta, this is all faulty money and no transactions actually route through the internet." +
@@ -100,6 +106,9 @@ namespace BankingConsoleApp
                     break;
                 case 404:
                     Console.WriteLine("This field cannot be empty, please enter the correct field");
+                    break;
+                case 405:
+                    Console.WriteLine("Incorrect input, please enter the correct field");
                     break;
                 default:
                     Console.WriteLine("[THIS ERROR CODE IS UNRECOGNIZABLE. PLEASE CONTACT ADMINISTRATOR TO ADD ERROR CODE]");

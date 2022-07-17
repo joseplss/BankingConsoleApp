@@ -31,7 +31,7 @@ namespace BankingConsoleApp
                         break;
 
                     default:
-                        CW.ErrorPrinter(404);
+                        CW.ErrorPrinter(405);
                         continueProgram = false;
                         break;
                 }
@@ -76,7 +76,7 @@ namespace BankingConsoleApp
                         break;
 
                     default:
-                        CW.ErrorPrinter(404);
+                        CW.ErrorPrinter(405);
                         confirmAccount = false;
                         break;
                 }

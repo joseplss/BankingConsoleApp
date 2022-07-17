@@ -21,15 +21,14 @@ CW.PrintLB();
 
 //User will ask if they would like to continue making a program. If they type Y, then it will continue. If they say N, program will terminate.
 Methods.RunWouldYouLikeToCreateAnAccount();
-CW.PrintLB();
+//Console will clear
+CW.ConsoleClear();
 
 //User will be asked to enter the name of the account
 string UserName = Methods.RunAccountNameCreationAndConfirm();
 
 //Console will clear and user will have their username provided
-Console.Clear();
-CW.PrintDT();
-CW.PrintLB();
+CW.ConsoleClear();
 
 Console.Write($"Your username will be ");
 CW.Color("dg");
