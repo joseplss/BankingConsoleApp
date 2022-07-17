@@ -1,0 +1,15 @@
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\bin\Debug\net6.0\BankingConsoleApp.exe
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\bin\Debug\net6.0\BankingConsoleApp.deps.json
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\bin\Debug\net6.0\BankingConsoleApp.runtimeconfig.json
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\bin\Debug\net6.0\BankingConsoleApp.dll
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\bin\Debug\net6.0\BankingConsoleApp.pdb
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\BankingConsoleApp.csproj.AssemblyReference.cache
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\BankingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\BankingConsoleApp.AssemblyInfoInputs.cache
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\BankingConsoleApp.AssemblyInfo.cs
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\BankingConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\BankingConsoleApp.dll
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\refint\BankingConsoleApp.dll
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\BankingConsoleApp.pdb
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\BankingConsoleApp.genruntimeconfig.cache
+C:\Users\MrHoe\Documents\Projects\TrueCoders\BankApp\BankingConsoleApp\BankingConsoleApp\obj\Debug\net6.0\ref\BankingConsoleApp.dll
